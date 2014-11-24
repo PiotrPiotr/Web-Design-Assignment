@@ -1,0 +1,8 @@
+C:\Users\v-pszul\Documents\Visual Studio 2012\Projects\WebSite2\WebApplication1\bin\WebApplication1.dll
+C:\Users\v-pszul\Documents\Visual Studio 2012\Projects\WebSite2\WebApplication1\bin\WebApplication1.pdb
+C:\Users\v-pszul\Documents\Visual Studio 2012\Projects\WebSite2\WebApplication1\bin\WebApplication1.xml
+C:\Users\v-pszul\Documents\Visual Studio 2012\Projects\WebSite2\WebApplication1\obj\Debug\WebApplication1.Resources.resources
+C:\Users\v-pszul\Documents\Visual Studio 2012\Projects\WebSite2\WebApplication1\obj\Debug\WebApplication1.vbproj.GenerateResource.Cache
+C:\Users\v-pszul\Documents\Visual Studio 2012\Projects\WebSite2\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\v-pszul\Documents\Visual Studio 2012\Projects\WebSite2\WebApplication1\obj\Debug\WebApplication1.xml
+C:\Users\v-pszul\Documents\Visual Studio 2012\Projects\WebSite2\WebApplication1\obj\Debug\WebApplication1.pdb

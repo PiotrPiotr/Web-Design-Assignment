@@ -1,0 +1,59 @@
+﻿body {
+    background-color:#A2A2A2;
+    padding:4%;
+}
+
+.top {
+    position:relative;
+    font-family:Tahoma;
+    font-size:larger;
+    text-align:center;
+}
+
+#navbar {
+	height:3em;
+	background-color: purple;
+    font-family:Calibri;
+    font-size:2em;
+}
+
+#navel1{
+float:left;
+height:1.5em;
+width:200px;
+background-color:orange;
+}
+
+#navel2{
+float:left;
+height:1.5em;
+width:200px;
+background-color:orange;
+}
+
+#navel3{
+float:right;
+height:1.5em;
+width:200px;
+background-color:orange;
+}
+
+#navel4{
+float:right;
+height:1.5em;
+width:200px;
+background-color:orange;
+}
+
+
+a {
+text-decoration: none;
+font-size:large;
+}
+
+p {
+    font-family:Aharoni;
+    font-size:1.8em;
+    text-align:justify;
+    color:#FFFEE3;
+}
